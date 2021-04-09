@@ -9,19 +9,12 @@ redirect_from:
 
 ---
 
-
-
 ## Education
 
 - Sichuan University (Undergraduate)
-
   - Computer Science  88.8/100, 3.78/4.0	2017.09-2021.06
-
 - Beijing University of Aeronautics and Astronautics University (Postgraduate admission)
-
   - Computer Science  2021.09-
-
-  
 
 ## AWARDS
 
@@ -34,8 +27,6 @@ redirect_from:
 - Sichuan Province National College Students Mathematical Contest in Modeling , **Third Award**. 2019.12
 - College Students' innovation and Entrepreneurship Competition, **Third Award**. 2019.06 /2020.06
 
-
-
 ## PROJECTS
 
 - YuFei Chen, LiangWei Jiang, JunYou Wang. [Luggage sorting system based on image processing technology](https://github.com/Janspiry/Color-Similarity-Calculation). Directed by Prof. LiangYin Chen. 2018.08-2019.11
@@ -44,37 +35,26 @@ redirect_from:
 - LiangWei Jiang. A survey of large-scale machine learning platforms. Directed by Prof. YaNan Sun. 2019.10-2019.12
 - LiangWei Jiang. Face image inpainting based on attention model. Directed by Doc. HongYu Yan. 2020.10-
 
-
-
 ## HONORS
 
 - SiChuan University Outstanding Student. 2019
-
 - SiChuan University Advanced Individual of Student Association. 2018
-
 - SiChuan University Outstanding Graduate. 2020
-
-- SiChuan Province Outstanding Graduate. 2021
-
-
-​    
-
-
+- SiChuan Province Outstanding Graduate. 2021  
 
 ## PRIZES
 
--   National Inspirational Scholarship. 2018-2020
--   Sichuan University Single Scholarship,**First-Class**. 2018
--   Sichuan University Comprehensive Scholarship,**Second-Class**. 2018-2020          
-
+- National Inspirational Scholarship. 2018-2020
+- Sichuan University Single Scholarship,**First-Class**. 2018
+- Sichuan University Comprehensive Scholarship,**Second-Class**. 2018-2020 
 
 
 ## CLUBS
 
--   SiChuan university  Alumni Liaison Association, Member. 2017-2018
--   Sichuan University College Debate Team, Member. 2017-2020
--   Sichuan University ACM Training Team, Member. 2018-2020
--   Sichuan University Flying Club,  Maintenance Technician. 2017-2018
+- SiChuan university  Alumni Liaison Association, Member. 2017-2018
+- Sichuan University College Debate Team, Member. 2017-2020
+- Sichuan University ACM Training Team, Member. 2018-2020
+- Sichuan University Flying Club,  Maintenance Technician. 2017-2018
 
 
 
