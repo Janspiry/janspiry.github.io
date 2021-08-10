@@ -8,52 +8,49 @@ redirect_from:
 ---
 
 {% include base_path %}
+## Education
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+- Sichuan University
+  - Computer Science  88.8/100, 3.78/4.0	2017.09~2021.06
+- Beihang University
+  - Computer Science  2021.09~Present
+  
+  
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## Experience
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+-   2021.06~Present		Research intern at SenseTime, Beijing, China 
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+    -   Duties included: Image super resolution and skin color detection 
+    -   Supervisor: Professor Zhang
+
+    
+
+## Skills
+
+- Programming Language: C/C++, Python, Java
+- Frameworks: PyTorch(-Lightning), Numpy, Scikit-Learn, Pandas, TensorFlow(Recently)
+
+
+
+## Selected Awards
+
+- National College Student Service Outsourcing innovation and Entrepreneurship Competition, **Second Award**(Final, Captain). 2020.08
+
+- ICPC China and Silk-Road Contest, **Silver Medal** (Invitational). 2019.06 
+
+- National College Student Mathematics Competition, **Second Award** (non-mathematics) . 2018.11 
+
+- SiChuan Province LanQiao Cup Professional Talent Competition, **Second Award**. 2019.03
+
+    ​    
+
+## Projects
+
+- YuFei Chen, LiangWei Jiang, JunYou Wang. [Luggage sorting system based on image processing technology](https://github.com/Janspiry/Color-Similarity-Calculation). Directed by Prof. LiangYin Chen. 2018.08-2019.11
+- AnFang Liu, LiangWei Jiang, KaiBin Wang. [Route planning system based on Hybrid Genetic Algorithm.](https://k0afe0.coding-pages.com/) Directed by Prof. YaNan Sun,  Prof. Sha Ding. 2020.01-2020.08
+- Jiu Fen, LiangWei Jiang etc. [New Concept Online Collaboration System](https://github.com/Janspiry/Collaborative-Drawboard) . Directed by Prof. YaNan Sun,  Prof. QiuHui Yan. 2020.03-2020.10
+- LiangWei Jiang. A survey of large-scale machine learning platforms. Directed by Prof. YaNan Sun. 2019.10-2019.12
+- LiangWei Jiang. Face image inpainting based on attention model. Directed by Doc. HongYu Yan. 2020.10-2021.6
+
+
