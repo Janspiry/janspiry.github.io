@@ -1,13 +1,11 @@
 ---
 layout: archive
-title: "Grants&Awards"
+title: ""
 permalink: /awards/
 author_profile: true
 redirect_from:
   - /resume
 ---
-
-
 
 ## Awards
 
@@ -19,8 +17,6 @@ redirect_from:
 - Southwest Division of the WeChat Mini Program Application Development Competition, **Third Award** (Captain). 2019.04	
 - Sichuan Province National College Students Mathematical Contest in Modeling , **Third Award**. 2019.12
 - College Students' innovation and Entrepreneurship Competition, **Third Award**. 2019.06 /2020.06
-
-
 
 ## Honors
 

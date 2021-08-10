@@ -1,37 +1,30 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 ## Education
 
 - Sichuan University
   - Computer Science  88.8/100, 3.78/4.0	2017.09~2021.06
 - Beihang University
   - Computer Science  2021.09~Present
-  
-  
 
 ## Experience
 
--   2021.06~Present		Research intern at SenseTime, Beijing, China 
-
+-   2021.06~Present		Research intern at  SenseTime, Beijing, China 
     -   Duties included: Image super resolution and skin color detection 
     -   Supervisor: Professor Zhang
 
-    
 
 ## Skills
 
 - Programming Language: C/C++, Python, Java
 - Frameworks: PyTorch(-Lightning), Numpy, Scikit-Learn, Pandas, TensorFlow(Recently)
-
-
 
 ## Selected Awards
 
@@ -41,9 +34,8 @@ redirect_from:
 
 - National College Student Mathematics Competition, **Second Award** (non-mathematics) . 2018.11 
 
-- SiChuan Province LanQiao Cup Professional Talent Competition, **Second Award**. 2019.03
+- SiChuan Province LanQiao Cup Professional Talent Competition, **Second Award**. 2019.03  
 
-    ​    
 
 ## Projects
 
@@ -52,5 +44,3 @@ redirect_from:
 - Jiu Fen, LiangWei Jiang etc. [New Concept Online Collaboration System](https://github.com/Janspiry/Collaborative-Drawboard) . Directed by Prof. YaNan Sun,  Prof. QiuHui Yan. 2020.03-2020.10
 - LiangWei Jiang. A survey of large-scale machine learning platforms. Directed by Prof. YaNan Sun. 2019.10-2019.12
 - LiangWei Jiang. Face image inpainting based on attention model. Directed by Doc. HongYu Yan. 2020.10-2021.6
-
-
