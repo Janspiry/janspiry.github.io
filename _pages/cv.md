@@ -24,7 +24,7 @@ redirect_from:
 ## Skills
 
 - Programming Language: C/C++, Python, Java
-- Frameworks: PyTorch(-Lightning), Numpy, Scikit-Learn, Pandas, TensorFlow(Recently)
+- Frameworks: PyTorch(-Lightning), Numpy, Scikit-Learn, Pandas, TensorFlow
 
 ## Selected Awards
 
@@ -39,8 +39,6 @@ redirect_from:
 
 ## Projects
 
-- YuFei Chen, LiangWei Jiang, JunYou Wang. [Luggage sorting system based on image processing technology](https://github.com/Janspiry/Color-Similarity-Calculation). Directed by Prof. LiangYin Chen. 2018.08-2019.11
 - AnFang Liu, LiangWei Jiang, KaiBin Wang. [Route planning system based on Hybrid Genetic Algorithm.](https://k0afe0.coding-pages.com/) Directed by Prof. YaNan Sun,  Prof. Sha Ding. 2020.01-2020.08
-- Jiu Fen, LiangWei Jiang etc. [New Concept Online Collaboration System](https://github.com/Janspiry/Collaborative-Drawboard) . Directed by Prof. YaNan Sun,  Prof. QiuHui Yan. 2020.03-2020.10
 - LiangWei Jiang. A survey of large-scale machine learning platforms. Directed by Prof. YaNan Sun. 2019.10-2019.12
 - LiangWei Jiang. Face image inpainting based on attention model. Directed by Doc. HongYu Yan. 2020.10-2021.6

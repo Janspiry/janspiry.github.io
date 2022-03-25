@@ -12,11 +12,10 @@ I am a master of School of Computer Science and Engineering in Beihang Universit
 
 ## **Research Interests**
 
-My research interest focus on theory and applications of Deep Generative Models (GANs) in Computer Vision, including:
+I’m currently working on Computer Vision, including:
 
--   Image Inpainting
--   Image Super-Resolution
--   Image Generation With Style Control
+-   Image Restoration
+-   Image Synthesis
 
 
 

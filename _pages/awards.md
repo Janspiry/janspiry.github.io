@@ -23,9 +23,6 @@ redirect_from:
 - National Inspirational Scholarship. 2018-2020
 - Sichuan University Single Scholarship,**First-Class**. 2018
 - Sichuan University Comprehensive Scholarship,**Second-Class**. 2018-2020 
-
 - SiChuan University Outstanding Student. 2019
 - SiChuan University Advanced Individual of Student Association. 2018
-- SiChuan University Outstanding Graduate. 2020
-- SiChuan Province Outstanding Graduate. 2021  
 
