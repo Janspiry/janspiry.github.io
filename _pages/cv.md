@@ -29,13 +29,8 @@ redirect_from:
 ## Selected Awards
 
 - National College Student Service Outsourcing innovation and Entrepreneurship Competition, **Second Award**(Final, Captain). 2020.08
-
 - ICPC China and Silk-Road Contest, **Silver Medal** (Invitational). 2019.06 
-
 - National College Student Mathematics Competition, **Second Award** (non-mathematics) . 2018.11 
-
-- SiChuan Province LanQiao Cup Professional Talent Competition, **Second Award**. 2019.03  
-
 
 ## Projects
 
