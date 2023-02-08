@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Liangwei Jiang"
-description              : # "Graduate Student at Beihang University, pursuing a Masters in Computer Science. "
+description              : "" #"Graduate Student at Beihang University, pursuing a Masters in Computer Science. "
 repository               : "Janspiry/Janspiry.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Liangwei Jiang"
-  avatar           : "profile.jpg"
+  avatar           : "images/profile.jpg"
   bio              : "life is struggle"
   location         : "Beijing, China"
   employer         :
