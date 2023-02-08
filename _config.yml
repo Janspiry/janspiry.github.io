@@ -6,10 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Janspiry"
-description              : "Graduate Student at Beihang University, pursuing a Masters in Computer Science. "
+title                    : "Liangwei Jiang"
+description              : # "Graduate Student at Beihang University, pursuing a Masters in Computer Science. "
 repository               : "Janspiry/Janspiry.github.io"
-google_scholar_stats_use_cdn : false
+google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Janspiry"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "BUAA"
+  name             : "Liangwei Jiang"
+  avatar           : "profile.jpg"
+  bio              : "life is struggle"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
