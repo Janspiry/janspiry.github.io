@@ -38,14 +38,16 @@ I’m currently working on Computer Vision, including:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM-MM 2023</div><img src='images/MIEP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MIEP: Channel Pruning with Multi-granular Importance Estimation for Object Detection](images/MIEP.pdf)
+<!-- [MIEP: Channel Pruning with Multi-granular Importance Estimation for Object Detection](images/MIEP.pdf) -->
+MIEP: Channel Pruning with Multi-granular Importance Estimation for Object Detection
 
 **Liangwei Jiang**, Jiaxin Chen, Di Huang, Yunhong Yang
 - MIEP achieves a better balance between accuracy and efficiency compared to lightweight object detectors, and generalizes well to various detection frameworks (e.g., Faster-RCNN and FSAF) and tasks (e.g., classification).
 <!-- - Under 75% FLOPs reduction, MIEP achieves a 37.0% mAP on GFL with COCO. Specifically, MIEP compresses a 90%-FLOPs reduction in RetinaNet and Faster-RCNN, even retains 74.1% and 76.1% mAP on VOC, respectively. -->
 </div>
 </div>
-- [MSN: Multi-directional Similarity Network for Hand-crafted and Deep-synthesized Copy-Move Forgery Detection](images/MSN.pdf), **Liangwei Jiang**, Jinluo Xie, Yecheng Huang, Hua Zhang, Hongyu Yang, Di Huang, arXiv 2023
+<!-- - [MSN: Multi-directional Similarity Network for Hand-crafted and Deep-synthesized Copy-Move Forgery Detection](images/MSN.pdf), **Liangwei Jiang**, Jinluo Xie, Yecheng Huang, Hua Zhang, Hongyu Yang, Di Huang -->
+- MSN: Multi-directional Similarity Network for Hand-crafted and Deep-synthesized Copy-Move Forgery Detection, **Liangwei Jiang**, Jinluo Xie, Yecheng Huang, Hua Zhang, Hongyu Yang, Di Huang
 
 
 # 🎖 Honors and Awards
@@ -64,7 +66,7 @@ I’m currently working on Computer Vision, including:
 <!-- # 💬 Invited Talks -->
 
 # 💻 Internships
-- *2023.05 - present*, Research intern at SenseTime, Beijing, China 
+- *2023.05 - present*, Research intern at Baidu, Inc., Beijing, China 
   -  Duties included: Video and Image understand 
 - *2021.06 - 2021.09*, Research intern at SenseTime, Beijing, China 
   -  Duties included: Image restoration and skin color detection 
