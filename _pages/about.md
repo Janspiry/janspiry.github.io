@@ -38,10 +38,9 @@ I’m currently working on Computer Vision, including:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM-MM 2023</div><img src='images/MIEP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<!-- [MIEP: Channel Pruning with Multi-granular Importance Estimation for Object Detection](images/MIEP.pdf) -->
-MIEP: Channel Pruning with Multi-granular Importance Estimation for Object Detection
+[MIEP: Channel Pruning with Multi-granular Importance Estimation for Object Detection](https://doi.org/10.1145/3581783.3612563)
 
-**Liangwei Jiang**, Jiaxin Chen, Di Huang, Yunhong Yang
+**Liangwei Jiang**, Jiaxin Chen, Di Huang, Yunhong Wang
 - MIEP achieves a better balance between accuracy and efficiency compared to lightweight object detectors, and generalizes well to various detection frameworks (e.g., Faster-RCNN and FSAF) and tasks (e.g., classification).
 <!-- - Under 75% FLOPs reduction, MIEP achieves a 37.0% mAP on GFL with COCO. Specifically, MIEP compresses a 90%-FLOPs reduction in RetinaNet and Faster-RCNN, even retains 74.1% and 76.1% mAP on VOC, respectively. -->
 </div>
